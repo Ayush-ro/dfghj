@@ -1,0 +1,37 @@
+.service{
+    background-color: rgba(128, 0, 128, 0.192);
+}
+.bgmi{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.con3{
+    background-color:#8000805e;
+    height: 212px;
+    padding: 16px;
+}
+.h2{
+    FONT-SIZE: 50px;
+    text-align: center;
+    color: white;
+}
+.con3{
+    width: 50%;
+    border-radius: 10px;
+}
+
+.h3{
+    font-size: 175%;
+    text-align: center;
+    color: white;
+}
+
+.display1{
+    display: none;
+}
+.image img{
+    height: 245px;
+    width: 415px;
+    border-radius: 10px;
+}

@@ -1,0 +1,112 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.contact{
+    background-color: #e7cee759;
+}
+.rows{
+    display: flex;
+}
+.h8{
+    font-size: 268%;
+    text-align: center;
+    color: black;
+}
+.left{
+    font-size: 143%;
+    width: 66%;
+}
+.right{
+    font-size: 158%;
+    width: 27%;
+}
+
+.rows{
+    margin-top: 10px;
+}
+.inp {
+    margin-top: 10px;
+    font-size: 23px;
+    width: 93%;
+    /* border-radius: 10px; */
+}
+.textarea {
+    margin-top: 10px;
+    font-size: 20px;
+}
+.textarea textarea{
+border-radius: 10px;    width: 87%;
+height: 97px;
+}
+.inp input{
+    font-size: 111%;
+    border-radius: 10px;
+    font-size: 23px;
+    width: 93%;
+}
+.rows .icon icon{
+    margin-top: 13px;
+}
+
+
+.button-23 {
+  background-color: #FFFFFF;
+  border: 1px solid #222222;
+  border-radius: 8px;
+  box-sizing: border-box;
+  color: #222222;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  padding: 13px 23px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  touch-action: manipulation;
+  transition: box-shadow .2s,-ms-transform .1s,-webkit-transform .1s,transform .1s;
+  user-select: none;
+  -webkit-user-select: none;
+  width: auto;
+}
+
+.button-23:focus-visible {
+  box-shadow: #222222 0 0 0 2px, rgba(255, 255, 255, 0.8) 0 0 0 4px;
+  transition: box-shadow .2s;
+}
+
+.button-23:active {
+  background-color: #F7F7F7;
+  border-color: #000000;
+  transform: scale(.96);
+}
+
+.button-23:disabled {
+  border-color: #DDDDDD;
+  color: #DDDDDD;
+  cursor: not-allowed;
+  opacity: 1;
+}
+.button-23:hover{
+    color: red;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    font-size: 27px;
+    position: relative;
+    bottom: -17px;
+    color: white;
+    height: 63px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.foot{
+    bottom: -9px;
+    position: relative;
+}

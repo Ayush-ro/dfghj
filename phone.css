@@ -1,0 +1,62 @@
+@media (min-width:0) and (max-width:500px){
+    .navbar .text{
+        font-size: 16px;
+        margin-top: 22px;
+    }
+    .home .w{
+       font-size: 50px; 
+    }
+    .home .heading{
+        font-size: 50px;
+    }
+    .home .we .con{    font-size: 13px;
+        width: 81%;}
+    .button-62{       position:  relative;
+    top: -60px;}
+    .navbar .img img {
+        width: 76px;
+    }
+    .display1{
+        display: block;
+    }
+  .display2{
+    display: none;
+  }
+  .button-23{
+    font-size: 14px;
+    width: 90%;
+  }
+  .service .bgmi .con3  { width: 90%;}
+    .about .a{
+        font-size: 50px;
+    }
+    .about .heading2{
+        font-size: 50px;
+    }
+    .con2{
+        font-size: 13px;
+        width: 81%;
+    }
+    .bgmi{
+        display: block;
+    }
+    .bgmi .con3{
+        height: 195px;
+        width: 93%;
+    }
+    .bgmi .con3 h3{
+        font-size: 129%
+    }
+    .bgmi .con3 .con4{
+        font-size: 10px;
+    }
+    .bgmi .image img{    width: 94%;}
+.contact{
+    position: relative;
+    top: 988px;
+}
+footer{
+    position: relative;
+    top: 988px;
+}
+}
